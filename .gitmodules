@@ -1,0 +1,6 @@
+[submodule "appiko-setup"]
+	path = appiko-setup
+	url = git@github.com:Appiko/appiko-setup.git
+[submodule "long-range"]
+	path = long-range
+	url = git@github.com:Appiko/long-range.git
