@@ -7,3 +7,6 @@
 [submodule "senseEle-App"]
 	path = senseEle-App
 	url = git@github.com:Appiko/senseEle-App.git
+[submodule "setup-app"]
+	path = setup-app
+	url = git@github.com:Appiko/appiko-setup.git
