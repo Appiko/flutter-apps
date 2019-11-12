@@ -4,3 +4,6 @@
 [submodule "long-range"]
 	path = long-range
 	url = git@github.com:Appiko/long-range.git
+[submodule "senseEle-App"]
+	path = senseEle-App
+	url = git@github.com:Appiko/senseEle-App.git
